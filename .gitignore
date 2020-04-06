@@ -1,0 +1,10 @@
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints/
+*.xlsx
+*.csv
+*.jpg
+*.png
+*.tex
+remove/
+modeling/__pycache__/*
